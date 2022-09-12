@@ -1,0 +1,142 @@
+{
+    "players" : [
+        {
+            "name" : "tharanga",
+            "points" : 9.0,
+            "team" : "SL",
+            "role" : "keeper"
+        },
+        {
+            "name" : "mustard",
+            "points" : 9.0,
+            "team" : "ENG",
+            "role" : "keeper"
+        },
+        {
+            "name" : "Ambrose",
+            "points" : 8.0,
+            "team" : "ENG",
+            "role" : "keeper"
+        },
+        {
+            "name" : "Bell",
+            "points" : 9.0,
+            "team" : "ENG",
+            "role" : "batsman"
+        },
+        {
+            "name" : "gunaratne",
+            "points" : 9.0,
+            "team" : "SL",
+            "role" : "batsman"
+        },
+        {
+            "name" : "kapugedare",
+            "points" : 8.5,
+            "team" : "SL",
+            "role" : "batsman"
+        },
+        {
+            "name" : "jayasuriya",
+            "points" : 8.5,
+            "team" : "SL",
+            "role" : "batsman"
+        },
+        {
+            "name" : "compton",
+            "points" : 8.5,
+            "team" : "ENG",
+            "role" : "batsman"
+        },
+        {
+            "name" : "dilsan",
+            "points" : 10.5,
+            "team" : "SL",
+            "role" : "allrounder"
+        },
+        {
+            "name" : "clarke",
+            "points" : 9.0,
+            "team" : "ENG",
+            "role" : "allrounder"
+        },
+        {
+            "name" : "perara",
+            "points" : 8.5,
+            "team" : "SL",
+            "role" : "allrounder"
+        },
+        {
+            "name" : "maddy",
+            "points" : 8.5,
+            "team" : "ENG",
+            "role" : "allrounder"
+        },
+        {
+            "name" : "silva",
+            "points" : 8.5,
+            "team" : "SL",
+            "role" : "bowler"
+        },
+        {
+            "name" : "kulasekara",
+            "points" : 9.0,
+            "team" : "SL",
+            "role" : "bowler"
+        },
+        {
+            "name" : "derbach",
+            "points" : 9.0,
+            "team" : "ENG",
+            "role" : "bowler"
+        },
+        {
+            "name" : "weeraratne",
+            "points" : 8.5,
+            "team" : "SL",
+            "role" : "bowler"
+        },
+        {
+            "name" : "udana",
+            "points" : 8.5,
+            "team" : "SL",
+            "role" : "bowler"
+        },
+        {
+            "name" : "prasad",
+            "points" : 8.0,
+            "team" : "SL",
+            "role" : "bowler"
+        },
+        {
+            "name" : "tremlet",
+            "points" : 9.0,
+            "team" : "ENG",
+            "role" : "bowler"
+        },
+        {
+            "name" : "meaker",
+            "points" : 8.0,
+            "team" : "ENG",
+            "role" : "bowler"
+        },
+        {
+            "name" : "masceren",
+            "points" : 9.0,
+            "team" : "ENG",
+            "role" : "allrounder"
+        },
+        {
+            "name" : "tindall",
+            "points" : 9.0,
+            "team" : "SL",
+            "role" : "batsman"
+        },
+        {
+            "name" : "loye",
+            "points" : 9.0,
+            "team" : "ENG",
+            "role" : "batsman"
+        }
+    ]
+}
